@@ -14,7 +14,7 @@ Starting in Discord can be a bit intimidating, so let me take you through it.
   * They are in the reinforcement learning lounge.
   * #rl-announcements have announcements about the course.
   * #discussions is a place where you can talk with fellow humans.
-  * #unity-ml-agents is a place to talk about ML Agents, a library we'll learn during th ecourse.
+  * #unity-ml-agents is a place to talk about ML Agents, a library we'll learn during the course.
   * #study-groups do you want to form a group with fellow humans? This is the place
  
 The HF Community Server has a thriving community of humans interested in many areas, so you can also learn from those. There are paper discussions, events, and many other things. Here are other channels in the community
